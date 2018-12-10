@@ -72,7 +72,6 @@ graph = {
         (6, 'F', 'D'),
         (8, 'F', 'E'),
         (11, 'F', 'G'),
-        (9, 'G', 'E'),
         ]
 }
 print(kruskal(graph))
