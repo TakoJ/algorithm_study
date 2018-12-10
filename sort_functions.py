@@ -1,6 +1,6 @@
 from operator import itemgetter, attrgetter
 
-# 사실 python에서는 sort()를 쓰면 배열이 자동으로 정렬된다. 하지만 연습을 위해 정렬들을 구현해봤다.
+# 사실 python 에서는 sort()를 쓰면 배열이 자동으로 정렬된다. 하지만 연습을 위해 정렬들을 구현해봤다.
 
 # python에서 swap은 그냥 a, b = b, a 이렇게 하면됨 wow
 def swap(x, y):
